@@ -63,7 +63,7 @@ export default function TextForm(props) {
             </div>
             <div className="container my-3">
                 <h3 style={{ color: props.mode === 'light' ? 'black' : '#BAFFB4' }}>Your Text Summary:</h3>
-                <p style={{ color: props.mode === 'light' ? 'black' : 'white' }}>{text.split(" ").filter((element) => { return element.length !== 0 }).length} words and {text.length} characters.</p>
+                <p style={{ color: props.mode === 'light' ? 'black' : 'white' }}>{text.split(/\s+/).filter((element) => { return element.length !== 0 }).length} words and {text.length} characters.</p>
                 <p style={{ color: props.mode === 'light' ? 'black' : 'white' }}>{0.008 * text.split(" ").filter((element) => { return element.length !== 0 }).length} minutes read.</p>
                 <h4 style={{ color: props.mode === 'light' ? 'black' : '#BAFFB4' }}>Preview:</h4>
                 <p style={{ color: props.mode === 'light' ? 'black' : 'white' }}>{text.length > 0 ? text : "Nothing to preview!"}</p>

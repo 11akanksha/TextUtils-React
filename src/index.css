@@ -1,0 +1,5 @@
+.accordion-button::after {
+    filter: invert(1);
+}
+
+/* The above is used to make the arrows of About visible in both-light and dark mode */
