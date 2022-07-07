@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Images from the final website made:
+
+![Screenshot (5166)](https://user-images.githubusercontent.com/64818557/177767704-6cff2989-b2a9-4e58-a458-44de782330d2.png)
+
+![Screenshot (5167)](https://user-images.githubusercontent.com/64818557/177767782-e7b7a544-e8dc-4322-86ed-95b5ae8444e4.png)
+
+![Screenshot (5168)](https://user-images.githubusercontent.com/64818557/177767790-42a04fb6-de83-40fb-8a34-f71cdf7b6d3b.png)
+
+![Screenshot (5169)](https://user-images.githubusercontent.com/64818557/177767797-75a58ff3-4f74-4bfb-b766-9990e3290884.png)
+
+![Screenshot (5170)](https://user-images.githubusercontent.com/64818557/177767804-40dd9397-cad2-459e-b5f3-08e2c1a1d0cd.png)
+
+![Screenshot (5171)](https://user-images.githubusercontent.com/64818557/177767878-706234fb-b45e-4703-a648-9ea67b559984.png)
+
+![Screenshot (5172)](https://user-images.githubusercontent.com/64818557/177767883-b2cc3dca-3a4a-480f-bcaa-b48234f701b4.png)
+
+![Screenshot (5173)](https://user-images.githubusercontent.com/64818557/177767885-98b4ad41-dc21-4238-9e4f-005fc234144c.png)
+
+![Screenshot (5174)](https://user-images.githubusercontent.com/64818557/177767887-ededb931-5e59-4566-9019-746d068e0ebe.png)
+
+![Screenshot (5175)](https://user-images.githubusercontent.com/64818557/177767893-51f67c50-21f2-44c0-bf6c-58d589acf88b.png)
+
+![Screenshot (5176)](https://user-images.githubusercontent.com/64818557/177767919-610b38c8-9dc6-4a49-8f0c-671d149803c0.png)
+
+![Screenshot (5177)](https://user-images.githubusercontent.com/64818557/177767931-aa112322-faff-4c1c-a365-6639a2cb5cc6.png)
+
+![Screenshot (5178)](https://user-images.githubusercontent.com/64818557/177767939-8dcfb7ad-5b1d-4b06-b4c2-1368ee27d430.png)
